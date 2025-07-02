@@ -51,7 +51,7 @@ export class Server{
         // Documentação Swagger
         this.app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerSpec, {
             customCss: '.swagger-ui .topbar { display: none }',
-            customSiteTitle: 'AUTO CENTER FERNANDES API',
+            customSiteTitle: 'AUTO CENTER SERVER API',
             customfavIcon: '/favicon.png'
         }));
         

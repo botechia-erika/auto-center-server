@@ -22,7 +22,7 @@ const options = {
         description: 'Servidor de Desenvolvimento'
       },
       {
-        url: 'https://api.autocenterfernandes.com',
+        url: 'https://api.autocenterSERVER.com',
         description: 'Servidor de Produção'
       }
     ],

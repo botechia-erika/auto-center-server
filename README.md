@@ -1,4 +1,4 @@
-# 🚗 AUTO CENTER FERNANDES - API
+# 🚗 AUTO CENTER SERVER - API
 
 Sistema completo de gestão para centro automotivo com controle de estoque, clientes, funcionários, vendas e financeiro.
 
@@ -10,7 +10,7 @@ Sistema completo de gestão para centro automotivo com controle de estoque, clie
 
 ## 📋 Sobre o Projeto
 
-O AUTO CENTER FERNANDES é uma API REST moderna e completa desenvolvida para automatizar e modernizar a gestão de centros automotivos. O sistema oferece funcionalidades abrangentes para controle de:
+O AUTO CENTER SERVER é uma API REST moderna e completa desenvolvida para automatizar e modernizar a gestão de centros automotivos. O sistema oferece funcionalidades abrangentes para controle de:
 
 - 👥 **Gestão de Clientes** - Cadastro completo com histórico de compras
 - 🚙 **Gestão de Veículos** - Controle dos veículos dos clientes
@@ -377,8 +377,8 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para de
 
 ## 👨‍💻 Autor
 
-**Felipe Fernandes**
-- Email: felipe@autocenterfernandes.com
+**ÉRIKA LUÍSA MENDONÇA BOTECHIA DE JESUS LEITE**
+- Email: elbotechia@gmail.com
 - GitHub: [@botechia-erika](https://github.com/botechia-erika)
 
 ## 🙏 Agradecimentos
@@ -398,4 +398,4 @@ Para suporte, envie um email para elbotechia@gmail.com ou abra uma issue no GitH
 
 ---
 
-**AUTO CENTER FERNANDES** - *Modernizando a gestão automotiva* 🚗✨
+**AUTO CENTER SERVER** - *Modernizando a gestão automotiva* 🚗✨

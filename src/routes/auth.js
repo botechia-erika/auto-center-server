@@ -81,7 +81,7 @@ import { authMiddleware, adminRequired } from '../middlewares/authMiddleware.js'
  *               email:
  *                 type: string
  *                 format: email
- *                 example: funcionario@autocenterfernandes.com
+ *                 example: funcionario@autocenterSERVER.com
  *               password:
  *                 type: string
  *                 example: Func123

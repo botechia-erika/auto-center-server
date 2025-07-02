@@ -1,6 +1,6 @@
 {
   "name": "auto-center-server",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "",
   "main": "src/app.js",
   "type": "module",
@@ -14,8 +14,8 @@
     "url": "git+https://github.com/botechia-erika/auto-center-server.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "botechia-erika <elbotechia@gmail.com>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/botechia-erika/auto-center-server/issues"
   },
