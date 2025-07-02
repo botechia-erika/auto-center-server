@@ -22,7 +22,7 @@ const options = {
         description: 'Servidor de Desenvolvimento'
       },
       {
-        url: 'https://api.autocenterSERVER.com',
+        url: 'https://auto-center-server.onrender.com/',
         description: 'Servidor de Produção'
       }
     ],
