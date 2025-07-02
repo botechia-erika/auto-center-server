@@ -25,9 +25,8 @@
                     "make": "Toyota",
                     "model": "Corolla",
                     "year": 2020,
-                    "licensePlate": "ABC-1234",
-                    "annotations": "Troca de óleo sintético realizada com sucesso."
-                }
+                    "licensePlate": "ABC-1234"
+            }
                 ,
                 "responsable":{
                     "id": "employee123",
